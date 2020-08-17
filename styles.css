@@ -1,0 +1,27 @@
+     #sidebar{
+    width: auto;
+    float: right;
+    background-color: dodgerblue;
+     }
+    img{
+    float:left;
+    }
+    #section2{
+        background-color: thistle;
+    }
+    #section1{
+        background-color: salmon;
+        border-collapse: collapse;
+    }
+    p{
+        font-weight: bold;
+        font-family: fantasy;
+    }
+    ul{
+        background-color: thistle;
+        font-style: oblique;
+    }
+    h3,h4{
+        color: mediumvioletred;
+        font-weight: bold;
+    }
